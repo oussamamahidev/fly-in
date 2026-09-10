@@ -1,0 +1,12 @@
+[project]
+name = "fly-in"
+version = "1.0.0"
+description = "Drone routing simulation through constrained zones (42 Fly-in)"
+requires-python = ">=3.10"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "flake8",
+    "mypy",
+]
